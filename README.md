@@ -26,7 +26,7 @@
 ├───Sharpening
 │       Sharpening.m
 │
-└───Smoothining
+└───Smoothing
     │   BoxFilter.m
     │   GaussianFilter.m
     │   MaxMinFilterComparison.m
